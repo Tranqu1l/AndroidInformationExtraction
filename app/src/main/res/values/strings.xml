@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">手机信息提取工具</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="string_documents">文档</string>
+    <string name="string_images">图片</string>
+    <string name="string_messages">短信</string>
+    <string name="string_information">手机信息</string>
+    <string name="string_search">搜索</string>
+    <string name="no_permission">没有权限</string>
+    <string name="imageView_description">大图</string>
+
+    <string name="strings_index">你的信息提取帮手</string>
+
+    <string name="strings_category">分类</string>
+
+    <string name="pdf">pdf</string>
+
+    <string name="word">word</string>
+
+    <string name="text">txt</string>
+
+    <string name="strings_video">视频</string>
+
+    <string name="excel">excel</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="扫描" />
+        -->
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/string_search"/>
+        <item
+        android:id="@+id/nav_documents"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="@string/string_documents" />
+        <item
+            android:id="@+id/nav_images"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/strings_category" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/string_messages" />
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/string_information"/>
+
+    </group>
+
+    <!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    -->
+
+</menu>
